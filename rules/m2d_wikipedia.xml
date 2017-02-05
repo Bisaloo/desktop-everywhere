@@ -1,0 +1,9 @@
+<ruleset name="Wikipedia mobile2desktop">                                               
+
+	<target host="en.m.wikipedia.org"/>
+	<target host="fr.m.wikipedia.org"/>
+
+	<rule from="^https://(\w{2})\.m\.wikipedia\.org/"
+			to="https://$1.wikipedia.org/" />
+
+</ruleset>
