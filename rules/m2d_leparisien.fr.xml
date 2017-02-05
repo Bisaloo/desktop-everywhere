@@ -1,0 +1,8 @@
+<ruleset name="leparisien mobile2desktop">
+
+	<target host="m.leparisien.fr" />
+
+	<rule from="^http://m\.leparisien\.fr/"
+			to="http://leparisien.fr/" />
+                                                                                
+</ruleset> 
