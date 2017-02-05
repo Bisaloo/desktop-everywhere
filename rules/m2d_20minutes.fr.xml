@@ -1,0 +1,8 @@
+<ruleset name="20minutes mobile2desktop">
+
+	<target host="m.20minutes.fr" />
+
+	<rule from="^http://m\.20minutes\.fr/"
+			to="http://20minutes.fr/" />
+                                                                                
+</ruleset>  
